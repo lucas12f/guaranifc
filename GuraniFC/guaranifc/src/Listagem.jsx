@@ -5,45 +5,45 @@ export default function Listagem() {
     return( 
         <>
         <main>
-            <h1>Tabela de Carros</h1>
+            <h1>Tabela de Cadastro</h1>
 
             <table border="1">
             <tr>
-                <td>Modelo</td>
-                <td>Marca</td>
-                <td>Ano</td>
+                <td>Email</td>
+                <td>Senha</td>
+                <td>ID</td>
                 <td>Editar</td>
                 <td>Excluir</td>
             </tr>
 
             <tr>
-                <td>Evija</td>
-                <td>Lotus</td>
-                <td>2026</td>
+                <td>lucas@gmail.com</td>
+                <td>lucas123</td>
+                <td>001</td>
                 <td>📝</td>
                 <td>🗑️</td>
             </tr>
 
             <tr>
-                <td>Uno</td>
-                <td>Fiat</td>
-                <td>2000</td>
+                <td>pedro@gmail.com</td>
+                <td>pedro123</td>
+                <td>002</td>
                 <td>📝</td>
                 <td>🗑️</td>
             </tr>
 
             <tr>
-                <td>Veneno</td>
-                <td>Lamborgini</td>
-                <td>2010</td>
+                <td>matheus@gmail.com</td>
+                <td>matheus123</td>
+                <td>003</td>
                 <td>📝</td>
                 <td>🗑️</td>
             </tr>
 
             <tr>
-                <td>Italia</td>
-                <td>Ferrari</td>
-                <td>2020</td>
+                <td>vinicius@gmail.com</td>
+                <td>vinicius123</td>
+                <td>004</td>
                 <td>📝</td>
                 <td>🗑️</td>
             </tr>
