@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    width: 65%;
+    height: 60vh;
+    background: #eee;
+    margin-top: 20vh;
+    box-shadow: 0 0 10x #999;
+    border-radius: 40px;
+}

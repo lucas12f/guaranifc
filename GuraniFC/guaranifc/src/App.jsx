@@ -1,4 +1,9 @@
 import { useState } from 'react'
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import { Routes, Route } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
+import Usuarios from './Usuarios'
 import './App.css'
 
 export default function App() {
